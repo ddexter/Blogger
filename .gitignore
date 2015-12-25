@@ -1,0 +1,4 @@
+db/
+src/main/scala-2.11/Config.scala
+*.swp
+.idea/
